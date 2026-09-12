@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[lite] Breaking agentic-computing systems down into relational components"
+title: "[snippet] Breaking agentic-computing systems down into relational components"
 excerpt: It seems that rather than try to master every combinatoric of every agentic AI interface with every traditional computing interface, we could start to decompose computational systems again from first principles of how the agentic-computing systems relate to the components in the environment.
 date: 2026-09-12 00:00:00
 ---
