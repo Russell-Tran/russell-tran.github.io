@@ -11,5 +11,8 @@ However, it seems that rather than try to master every combinatoric of every age
 
 May this provide useful insight on managing security complexity.
 
-![Component diagram of AI agents](/assets/2026-09-12_component_diagram.jpeg)
-
+<div style="text-align: center;">
+  <img src="/assets/2026-09-12_component_diagram.jpeg"
+       alt="Component diagram of AI agents"
+       style="width: 800px; max-width: 100%;">
+</div>
