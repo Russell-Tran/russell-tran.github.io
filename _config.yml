@@ -3,6 +3,9 @@ title: Russell Tran blog
 description: "AI Security Engineer"
 url: "https://russell-tran.github.io"
 github_username: Russell-Tran
+# twitter_username:        # uncomment + set to show a Twitter link in the footer
+# disqus_shortname:        # set your Disqus forum shortname to enable comments
+# google_analytics:        # set your GA4 measurement ID (G-XXXXXXXXXX) to enable analytics
 
 # Build settings
 markdown: kramdown

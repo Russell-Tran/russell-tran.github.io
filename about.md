@@ -5,4 +5,4 @@ permalink: /about/
 includelink: true
 ---
 
-See my [website](https://karpathy.ai/).
+I'm Russell Tran, an AI Security Engineer. Find me on [GitHub](https://github.com/Russell-Tran).
